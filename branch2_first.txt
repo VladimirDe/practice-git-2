@@ -1,1 +1,2 @@
 This is first file in branch2
+new string for commit1
